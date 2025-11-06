@@ -1,22 +1,8 @@
 {
-  "name": "Neon Plants - Неоновый сад",
-  "short_name": "Neon Plants",
-  "description": "Приложение для учета растений с неоновым дизайном",
+  "name": "Neon Plants",
+  "short_name": "Neon Plants", 
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#39FF14",
-  "background_color": "#000000",
-  "orientation": "portrait",
-  "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "background_color": "#000000"
 }
